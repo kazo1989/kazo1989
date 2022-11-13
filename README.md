@@ -22,4 +22,4 @@
 
 <p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=kazo1989&show_icons=true&bg_color=151515&locale=en" alt="kazo1989" /></p>
 
-<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kazo1989&theme=dracula" alt="kazo1989" /></p>
+<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kazo1989&theme=merko" alt="kazo1989" /></p>
