@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Petar</h1>
 <h3 align="center">Web Developer & Designer from Montenegro</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
+<img align="right" alt="Coding" width="300" border="3px solid #d7eff3" border-radius="40deg" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
 
 
 - 🌱 I’m about to learn perfectly **Full Stack FrontEnd & BackEnd and Design in general.**
