@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Petar</h1>
-<hr height="20px" >
+<hr height="200px" >
 <h3 align="center">Web Developer & Designer from Montenegro</h3>
 
 
