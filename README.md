@@ -1,17 +1,15 @@
-<h2 align="center">Hello 👋, I'm Petar</h2>
-<hr height="200px" >
-<h4 align="center">Web Developer & Designer from Montenegro</h4>
+<h1 align="center">Hello 👋, I'm Petar</h1>
+<h3 align="center">Web Developer & Designer from Montenegro</h3><br>
 
+⦿	🌱 I’m about to learn perfectly **Full Stack FrontEnd & BackEnd and Design in general.**
 
-- 🌱 I’m about to learn perfectly **Full Stack FrontEnd & BackEnd and Design in general.**
+⦿	👨‍💻 Some of my first projects are available on [https://github.com/kazo1989/Personal-TB](https://github.com/kazo1989/Personal-TB)
 
-- 👨‍💻 Some of my first projects are available on [https://github.com/kazo1989/Personal-TB](https://github.com/kazo1989/Personal-TB)
+⦿	💬 Ask me about **Coding & Design...**
 
-- 💬 Ask me about **Coding & Design...**
+⦿	📫 How to reach me: **kazicp12@gmail.com**
 
-- 📫 How to reach me **kazicp12@gmail.com**
-
-- ⚡ Fun fact **Unfortunately, I didn't learn Coding and Design in school, but I'm still great !**
+⦿	⚡ Fun fact **Unfortunately, I didn't learn Coding and Design in school, but I'm still great !**
 
 <hr>
 
