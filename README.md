@@ -7,7 +7,7 @@
 
 ⦿	💬 Ask me about **Coding & Design...**
 
-⦿	📫 How to reach me: **kazicp12@gmail.com**
+⦿	📫 How to reach me: **kazicp005@gmail.com**
 
 ⦿	⚡ Fun fact **Unfortunately, I didn't learn Coding and Design in school, but I'm still great !**
 
